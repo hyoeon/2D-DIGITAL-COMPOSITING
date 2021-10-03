@@ -44,7 +44,7 @@ __4. Color Space__
     vector 3 (x, y, z)  
     vector 4 (x, y, z, w) (r, g, b, a)  
     integer 0, 1, 2, 3, 4 ••• n
-    floating point 0.1, 2.35 •••
+    floating point 0.1, 2.35 •••  
     string "a", "abc", "2D", "Digital", "Compositing" •••  
     boolean 0, 1 off/on  
 
