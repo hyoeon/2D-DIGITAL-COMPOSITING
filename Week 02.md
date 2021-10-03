@@ -35,9 +35,9 @@ __3. Alpha__
 - Photoshop 레이어 마스크(Layer Mask): 알파 채널을 시각화 할 수 있는 방법 중 하나  
 
 __4. Color Space__  
-- Vector Data
-- (x, y, z) (r, g, b) 3차원 좌표로 치환  
-- ex) 8bit Red (255, 0, 0)  
+- Vector Data  
+    (x, y, z) (r, g, b) 3차원 좌표로 치환  
+    ex) 8bit Red (255, 0, 0)  
   
 - scalar (x)  
     vector 2 (x, y)  
